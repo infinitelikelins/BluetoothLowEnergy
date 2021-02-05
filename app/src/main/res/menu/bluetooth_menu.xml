@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/open_bluetooth"
+        android:title="@string/open_bluetooth"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/start_bluetooth_service"
+        android:title="@string/start_bluetooth"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/stop_bluetooth_service"
+        android:title="@string/stop_bluetooth"
+        app:showAsAction="always" />
+
+</menu>
